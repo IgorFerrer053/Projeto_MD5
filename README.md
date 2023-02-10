@@ -1,4 +1,4 @@
-# README - Código em NODE_JS para coleta de valores e exibição em ordem alfabética
+# Código em NODE_JS para coleta de valores e exibição em ordem alfabética 
 
 Este código é uma aplicação simples que permite ao usuário inserir valores através de uma interface de linha de comando (CLI) e exibir os valores coletados em ordem alfabética.
 
