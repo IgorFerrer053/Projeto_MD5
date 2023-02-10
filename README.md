@@ -27,3 +27,6 @@ Execute o código através do seguinte comando no terminal:
 ```
 - node index.js
 ```
+ ## Img do código
+ 
+ ![codigo](https://user-images.githubusercontent.com/112868127/218108331-7fbf9299-58b4-4b55-8e9a-a119cce3f10c.png)
